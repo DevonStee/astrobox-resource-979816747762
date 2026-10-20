@@ -71,28 +71,6 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true,
-    "trialDownloads": {
-      "xmb10": {
-        "version": "0.0.0",
-        "file_name": "downloads/trial/Tarot Arcana.face",
-        "versionCode": 0
-      },
-      "xmb10nfc": {
-        "version": "0.0.0",
-        "file_name": "downloads/trial/Tarot Arcana.face",
-        "versionCode": 0
-      },
-      "xmb11": {
-        "version": "0.0.0",
-        "file_name": "downloads/trial/Tarot Arcana.face",
-        "versionCode": 0
-      },
-      "xmb11nfc": {
-        "version": "0.0.0",
-        "file_name": "downloads/trial/Tarot Arcana.face",
-        "versionCode": 0
-      }
-    }
+    "enableAstroBoxCreatorFeatures": true
   }
 }
