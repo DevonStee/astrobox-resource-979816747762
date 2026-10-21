@@ -38,7 +38,7 @@
         },
         {
           "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿；修复长按切换表盘时预览图超出边框"
         }
       ]
     },
@@ -53,7 +53,7 @@
         },
         {
           "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿；修复长按切换表盘时预览图超出边框"
         }
       ]
     },
@@ -64,7 +64,7 @@
       "updatelogs": [
         {
           "version": "0.0.3",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
+          "content": "表盘图片换成不压缩的新固件格式：修复部分手环 11 黑屏，保留首次亮屏不卡"
         }
       ]
     },
@@ -75,7 +75,7 @@
       "updatelogs": [
         {
           "version": "0.0.3",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
+          "content": "表盘图片换成不压缩的新固件格式：修复部分手环 11 黑屏，保留首次亮屏不卡"
         }
       ]
     },
@@ -86,7 +86,7 @@
       "updatelogs": [
         {
           "version": "0.0.3",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
+          "content": "表盘图片换成不压缩的新固件格式：修复部分手环 11 黑屏，保留首次亮屏不卡"
         }
       ]
     },
@@ -97,34 +97,12 @@
       "updatelogs": [
         {
           "version": "0.0.3",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变；修复长按切换表盘时预览图超出边框"
+          "content": "表盘图片换成不压缩的新固件格式：修复部分手环 11 黑屏，保留首次亮屏不卡"
         }
       ]
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true,
-    "trialDownloads": {
-      "xmb10": {
-        "version": "0.0.0",
-        "file_name": "downloads/trial/Tarot Arcana.face",
-        "versionCode": 0
-      },
-      "xmb10nfc": {
-        "version": "0.0.0",
-        "file_name": "downloads/trial/Tarot Arcana.face",
-        "versionCode": 0
-      },
-      "xmb11": {
-        "version": "0.0.0",
-        "file_name": "downloads/trial/Tarot Arcana.face",
-        "versionCode": 0
-      },
-      "xmb11nfc": {
-        "version": "0.0.0",
-        "file_name": "downloads/trial/Tarot Arcana.face",
-        "versionCode": 0
-      }
-    }
+    "enableAstroBoxCreatorFeatures": true
   }
 }
