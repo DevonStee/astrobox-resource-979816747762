@@ -12,7 +12,7 @@
       "media/05-预览-昼夜产品.png"
     ],
     "icon": "media/01-图标-1比1.png",
-    "cover": "media/02-封面-3比2-三机.webp",
+    "cover": "media/02-封面-3比2-概念.png",
     "author": [
       {
         "name": "brin",
@@ -28,55 +28,6 @@
     }
   ],
   "downloads": {
-    "xmb9p": {
-      "version": "0.0.2",
-      "file_name": "downloads/Tarot Arcana Pro.face",
-      "versionCode": 2,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
-        },
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿；修复长按切换表盘时预览图超出边框"
-        },
-        {
-          "version": "0.0.2",
-          "content": "重新适配 Pro 版布局"
-        }
-      ]
-    },
-    "xmb10p": {
-      "version": "0.0.2",
-      "file_name": "downloads/Tarot Arcana Pro.face",
-      "versionCode": 2,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
-        },
-        {
-          "version": "0.0.1",
-          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿；修复长按切换表盘时预览图超出边框"
-        },
-        {
-          "version": "0.0.2",
-          "content": "重新适配 Pro 版布局"
-        }
-      ]
-    },
-    "xmrw6": {
-      "version": "0.0.0",
-      "file_name": "downloads/Tarot Arcana RW6.face",
-      "versionCode": 0,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增 REDMI Watch 6 支持"
-        }
-      ]
-    },
     "xmb10": {
       "version": "0.0.4",
       "file_name": "downloads/Tarot Arcana.face",
@@ -134,6 +85,55 @@
         {
           "version": "0.0.4",
           "content": "日期挪到左上，有未读消息时不会再被顶部红点挡住"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "0.0.2",
+      "file_name": "downloads/Tarot Arcana Pro.face",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        },
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿；修复长按切换表盘时预览图超出边框"
+        },
+        {
+          "version": "0.0.2",
+          "content": "重新适配 Pro 版布局"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "0.0.2",
+      "file_name": "downloads/Tarot Arcana Pro.face",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        },
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿；修复长按切换表盘时预览图超出边框"
+        },
+        {
+          "version": "0.0.2",
+          "content": "重新适配 Pro 版布局"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/Tarot Arcana RW6.face",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增 REDMI Watch 6 支持"
         }
       ]
     }
